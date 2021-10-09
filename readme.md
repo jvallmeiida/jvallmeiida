@@ -2,7 +2,7 @@
 
 ### Sobre Mim
 
-👩🏻‍💻  Eu sou desenvolvedor de software e atualmente trabalho na **EduSpace**
+👩🏻‍💻  Eu sou desenvolvedor de software e atualmente trabalho na **SygnalGroup**
 
 ⚡️ Estudo em tempo integral todas as áreas da programação buscando ser um profissional mais completo
 
