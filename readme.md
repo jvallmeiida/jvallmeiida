@@ -4,7 +4,7 @@
 
 👩🏻‍💻  Eu sou desenvolvedor de software e atualmente trabalho na **GetHub**
 
-⚡️ Estudo em tempo integral todas as áreas da programação buscando ser um profissional mais completo
+⚡️ Apesar de focar no backend, estudo em tempo integral todas as áreas da programação buscando ser um profissional mais completo
 
 
 ### Como me encontrar
