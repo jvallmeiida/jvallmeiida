@@ -1,13 +1,13 @@
-<div align="center"><h2>👋 Olá, Eu sou João Victor </h2></div>
+<div align="center"><h2>👋 Hello, I am Joao Almeida </h2></div>
 
-### Sobre Mim
+### About Me
 
-👩🏻‍💻  Eu sou desenvolvedor de software e atualmente trabalho na **GetHub**
+👩🏻‍💻  I am Software Developer at **GetHub**
 
-⚡️ Apesar de focar no backend, estudo em tempo integral todas as áreas da programação buscando ser um profissional mais completo
+⚡️ Despite focusing on the backend, study all areas of programming full-time seeking to be a more complete professional
 
 
-### Como me encontrar
+### How to find me
 
 <code><a href="https://www.linkedin.com/in/joaovictor-almeida/">
   <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
   <img height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a></code>
 
-### Meu conhecimento sobre tecnologias
+### My knowledge of technologies
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
