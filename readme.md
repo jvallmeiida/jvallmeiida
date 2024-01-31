@@ -2,7 +2,7 @@
 
 ### About Me
 
-👩🏻‍💻  I am Software Developer at **GetHub**
+👩🏻‍💻  I am Software Developer
 
 ⚡️ Despite focusing on the backend, study all areas of programming full-time seeking to be a more complete professional
 
